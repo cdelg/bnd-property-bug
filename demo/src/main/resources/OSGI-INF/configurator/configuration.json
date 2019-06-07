@@ -1,0 +1,9 @@
+{
+    ":configurator:resource-version": 1,
+    ":configurator:symbolic-name": "org.domain.demo.config",
+    ":configurator:version": "1.0.0",
+    
+    "org.apache.felix.http": {
+        "org.osgi.service.http.port": "${server.http.port}"
+    }
+}
