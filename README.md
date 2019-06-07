@@ -1,0 +1,1 @@
+# bnd-property-bug
